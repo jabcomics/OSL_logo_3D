@@ -5,10 +5,10 @@ Archivos para la impresión en 3D del logotipo de la [Oficina de Software Libre 
 Formatos disponibles:
 
 - Alta poligonización
-  logo_OSL.amf
-  logo_OSL.stl
-  logo_OSL.gcode
+  - logo_OSL.amf
+  - logo_OSL.stl
+  - logo_OSL.gcode
 
 - Baja poligonización
-  logo_OSL_low_poligon.amf
-  logo_OSL_low_poligon.stl
+  - logo_OSL_low_poligon.amf
+  - logo_OSL_low_poligon.stl
